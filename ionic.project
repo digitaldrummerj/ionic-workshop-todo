@@ -1,0 +1,12 @@
+{
+  "name": "todo",
+  "app_id": "d7253b68",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
